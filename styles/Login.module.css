@@ -1,0 +1,28 @@
+/* .login{
+    width: 100%;
+    height: 70vh;
+    background-color: rgb(225, 233, 233);
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+} */
+.or{
+    display: flex;
+ font-size:3rem !important;
+    color: brown;
+    align-items: center;
+    right: 50%;
+    position:absolute;
+    z-index: 1000;
+    top: 30%;
+}
+
+.Form{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+
+
